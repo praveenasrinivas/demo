@@ -2,7 +2,7 @@ version: 1
 update_configs:
   - package_manager: "javascript"
     directory: "/javascript"
-    update_schedule: "live"
+    update_schedule: "daily"
   - package_manager: "ruby:bundler"
     directory: "/ruby"
     update_schedule: "daily"
